@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models and outputs
+models/
+*.joblib
+*.pkl
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Virtual environment
+venv/
+
+# User/account data
+users.json
+
+# Secrets / OAuth configuration
+.env
+.env.*
+oauth_config.py
+
+# Generated forecast outputs
+future_forecast_*.csv
+forecast_*.csv
+
+# Generated maps / HTML outputs
+*.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large trained/deep-learning models
+*.pt
+*.pth
+
+# Large pipeline/model files
+*.joblib
+*.pkl
+
+# Generated/evaluation outputs
+*_eval.csv
+model_evals.csv
+inference_pipeline_eval.csv
+future_forecasts_combined.csv
+top_countries_forecasts_combined.csv
+
+# Temporary/checking scripts
+check_india.py
+cleanup_unused_files.py
+create_chapter7.py
+create_presentation.py
+run_app.ps1
