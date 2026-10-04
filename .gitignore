@@ -59,3 +59,16 @@ cleanup_unused_files.py
 create_chapter7.py
 create_presentation.py
 run_app.ps1
+
+# Local / optional project files
+DL_INTEGRATION.md
+FEATURE_COMPLETE.md
+FEATURE_REFERENCE_GUIDE.py
+FORECAST_COMPLETE.md
+Marine_Debris_Project_Presentation.pptx
+PROJECT_SUMMARY.py
+SIMPLE_ARCHITECTURE_DIAGRAM.md
+TRAINING_COMPLETE.md
+data.xlsx
+data_synthetic.csv
+data_synthetic_all_countries.csv
